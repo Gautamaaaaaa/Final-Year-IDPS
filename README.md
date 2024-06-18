@@ -1,6 +1,6 @@
-# Real-time Intrusion Detection Web App
+# Real-time Intrusion Detection System
 <b>Project III</b><br>
-<b>Nguyễn Việt Hoàng - 20194434</b><br>
+
 ## About
 * Real-time Intrusion Detection System implementing Machine Learning. 
 
@@ -10,16 +10,13 @@
 ![image](https://github.com/HoangNV2001/Real-time-IDS/assets/72451372/78e0b74c-9db6-4bf5-8591-6d7aa8247b22)
 
 ## Requirements:
-1. Windows OS.
+1. Unix Based OS.
 
 2. Python 3.9:
     * link 64-bit: https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe 
     * link 32-bit: https://www.python.org/ftp/python/3.9.13/python-3.9.13.exe
 
      <b> Note: select "Add Python 3.9 to PATH" in installation procedure.</b>
-
-3. Npcap 1.71:
-    https://npcap.com/dist/npcap-1.71.exe
 
 ## Download project folder & environment setups:
 <code>git clone https://github.com/HoangNV2001/APT_Detection
